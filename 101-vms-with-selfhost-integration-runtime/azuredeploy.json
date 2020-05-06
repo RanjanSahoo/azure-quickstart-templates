@@ -185,7 +185,7 @@
       },
       "properties": {
         "mode": "Incremental",
-        "templateLink": {
+        "template": {
           "uri": "[variables('vmTemplateLink')]",
           "contentVersion": "1.0.0.0"
         },
