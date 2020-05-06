@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "existingDataFactoryName": {
-      "value":"adf-ranjan-poc"
+      "value":"WW-METADATA-DRIVEN-ADF"
     },
     "existingDataFactoryResourceGroup": {
-      "value":"Sidd-POC-RG"
+      "value":"RG-data-pipeline-framework-poc"
     },
     "existingDataFactoryVersion": {
       "value":"V2"
     },
     "IntegrationRuntimeName": {
-      "value":"GEN-UNIQUE"
+      "value":"WW-METADATA-SELFH-IR"
     },
     "NodeCount":{
       "value": 1
