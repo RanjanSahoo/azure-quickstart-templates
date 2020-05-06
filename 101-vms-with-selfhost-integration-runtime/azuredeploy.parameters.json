@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "existingDataFactoryName": {
-      "value":"GET-PREREQ-dataFactoryName"
+      "value":"adf-ranjan-poc"
     },
     "existingDataFactoryResourceGroup": {
-      "value":"GET-PREREQ-resourceGroupName"
+      "value":"Sidd-POC-RG"
     },
     "existingDataFactoryVersion": {
-      "value":"V1"
+      "value":"V2"
     },
     "IntegrationRuntimeName": {
       "value":"GEN-UNIQUE"
@@ -24,16 +24,16 @@
       "value": "GEN-PASSWORD"
     },
     "existingVirtualNetworkName":{
-      "value": "GET-PREREQ-vnetName"
+      "value": "Contoso-VNet"
     },
     "existingVnetResourceGroupName":{
-      "value": "GET-PREREQ-resourceGroupName"
+      "value": "RG-data-pipeline-framework-poc"
     },
     "existingSubnetInYourVnet": {
-      "value": "GET-PREREQ-subnetName"
+      "value": "ADFVNET-SUBNET"
     },
     "existingVnetLocation": {
-      "value": "GET-PREREQ-vnetLocation"
+      "value": "EastUS"
     }
   }
 }
