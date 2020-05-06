@@ -84,7 +84,7 @@
         "description": "The base URI where artifacts required by this template are located."
       },
       /*"defaultValue": "[deployment().properties.templateLink.uri]"*/
-      "defaultValue":"https://raw.githubusercontent.com/Microsoft/dotnet-core-sample-templates/101-vms-with-selfhost-integration-runtime/"
+      "defaultValue":"https://github.com/RanjanSahoo/azure-quickstart-templates/tree/master/101-vms-with-selfhost-integration-runtime"
     },
     "_artifactsLocationSasToken": {
       "type": "securestring",
